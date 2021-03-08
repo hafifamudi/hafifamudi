@@ -11,10 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: you can find me at my instagram https://www.instagram.com/hafifamudi/ or my linkedin https://www.linkedin.com/in/hafif-muhammad-947a36162/
 - ⚡ Fun fact: Iam a fast learner
 
-// README.md
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hafifamudi&theme=react&show_icons=true&count_private=true)
 
-// README.md
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hafifamudi)
 
 

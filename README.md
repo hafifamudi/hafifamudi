@@ -61,3 +61,8 @@
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=hafifamudi&repo=djangoJavascript-jurnalUmum&show_owner=true)](https://github.com/hafifamudi/djangoJavascript-jurnalUmum)
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=hafifamudi&repo=CrudWithDjango&show_owner=true)](https://github.com/hafifamudi/CrudWithDjango)
+
+[website]: https://hafifamudi.github.io
+[instagram]: https://instagram.com/hafifamudi
+[linkedin]: https://www.linkedin.com/in/hafif-muhammad-947a36162/
+[mygithub]: https://github.com/hafifamudi

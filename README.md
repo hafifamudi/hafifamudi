@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Website](https://img.shields.io/website?label=hafifamudi.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hafifamudi.github.io)
+
 <!--
 **hafifamudi/hafifamudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -12,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Iam a fast learner
 
 
-[![Website](https://img.shields.io/website?label=me.nicosiput.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hafifamudi.github.io)
 
 ### Connect with me:
 

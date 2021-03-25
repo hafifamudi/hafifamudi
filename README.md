@@ -11,14 +11,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: you can find me at my instagram  or my linkedin https://www.linkedin.com/in/hafif-muhammad-947a36162/
 - ⚡ Fun fact: Iam a fast learner
 
+
+[![Website](https://img.shields.io/website?label=me.nicosiput.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://me.nicosiput.com)
+
 ### Connect with me:
 
-[<img align="left" alt="hafifamudi.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="hafif-muhammad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
-[<img align="left" alt="hafifamudi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="nicosiput.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="nicosiput | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nicosiput | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
 
 ### Languages and Tools:
 
@@ -37,12 +39,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
 [<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
 [<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
-[<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][website]
 
 <br />
 <br />
 <br /><br />
-
 
 <p align="center">
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hafifamudi&theme=react&show_icons=true&count_private=true)

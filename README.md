@@ -15,9 +15,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nicosiput.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="nicosiput | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="nicosiput | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+[<img align="left" alt="nicosiput.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="nicosiput | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nicosiput | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -49,7 +49,7 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=hafifamudi&hide=stars&show_icons=true&theme=dracula&line_height=48">
+  <img src="https://github-readme-stats.vercel.app/api?username=hafifamudi&hide=stars&show_icons=true&theme=react&line_height=48">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafifamudi&count_private=true&theme=react">
 
 </p>

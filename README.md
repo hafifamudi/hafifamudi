@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Iam a fast learner
 
 
-[![Website](https://img.shields.io/website?label=me.nicosiput.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://me.nicosiput.com)
+[![Website](https://img.shields.io/website?label=me.nicosiput.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hafifamudi.github.io)
 
 ### Connect with me:
 
@@ -43,11 +43,13 @@ Here are some ideas to get you started:
 <br />
 <br />
 <br /><br />
+**Github Stats:**
 
 <p align="center">
-![Github stats](https://github-readme-stats.vercel.app/api?username=hafifamudi&theme=react&show_icons=true&count_private=true)
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=hafifamudi&hide=stars&show_icons=true&theme=dracula&line_height=48">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafifamudi&count_private=true&theme=react">
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hafifamudi)
 </p>
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=hafifamudi&repo=Echo-restFull-API&show_owner=true)](https://github.com/hafifamudi/Echo-restFull-API)

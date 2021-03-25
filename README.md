@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on several web project
 - 🌱 I’m currently learning about cyberSec, and AI / Mechine learning
-- 📫 How to reach me: you can find me at my instagram  or my linkedin https://www.linkedin.com/in/hafif-muhammad-947a36162/
 - ⚡ Fun fact: Iam a fast learner
 
 

@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 <br /><br />
+---
 **Github Stats:**
 
 <p align="center">
@@ -51,7 +52,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafifamudi&count_private=true&theme=react">
 
 </p>
-
+---
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=hafifamudi&repo=Echo-restFull-API&show_owner=true)](https://github.com/hafifamudi/Echo-restFull-API)
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=hafifamudi&repo=djangoJavascript-jurnalUmum&show_owner=true)](https://github.com/hafifamudi/djangoJavascript-jurnalUmum)
